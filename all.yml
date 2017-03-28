@@ -6,15 +6,15 @@
   - role: dock
     apps:
     - /Applications/Firefox.app
-    - /Applications/Airmail.app
-    - /Applications/Dashlane.app
+    #- /Applications/Airmail.app
+    #- /Applications/Dashlane.app
     - /Applications/Spotify.app
-    - /Applications/Airmail.app
-    - "/Applications/Adobe Photoshop CC/Adobe Photoshop CC.app"
-    - "/Applications/Adobe Illustrator CC/Adobe Illustrator.app"
-    - /Applications/Atom.app
-    - /Applications/iTerm.app
-    - /Applications/Dash.app
+    #- /Applications/Airmail.app
+    #- "/Applications/Adobe Photoshop CC/Adobe Photoshop CC.app"
+    #- "/Applications/Adobe Illustrator CC/Adobe Illustrator.app"
+    #- /Applications/Atom.app
+    #- /Applications/iTerm.app
+    #- /Applications/Dash.app
     folders:
     - path: ~/
     - path: ~/Documents
@@ -36,8 +36,8 @@
   # cli
   # shell tooling
   - role: git_config
-    git_user_name: Bob Bob
-    git_user_email: bob.bob@example.com
+    git_user_name: Tommy Ziegler
+    git_user_email: me@tommyziegler.com
   - role: legit
   - role: hub
   - role: brew_package
