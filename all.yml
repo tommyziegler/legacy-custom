@@ -4,7 +4,7 @@
 
   # osx config
   - role: dock
-    apps:
+    #apps:
     #- /Applications/Firefox.app
     #- /Applications/Airmail.app
     #- /Applications/Dashlane.app
